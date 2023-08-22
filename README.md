@@ -2,7 +2,7 @@
 
 Merhaba,
 
-Bu proje, Edu4Tech/Human grubuyla yaptığımız dersler sonucunda geliştirdiğim Tatil Listeleme ve Görüntüleme uygulamasıdır. Bu projem, .NET alanındaki ilk deneyimlerimden olmasına rağmen, projeyi olabildiğince detaylı ve işlevsel bir şekilde tasarlamaya özen gösterdim.
+Bu proje, Edu4Tech/Human group ile yaptığımız dersler sonucunda geliştirdiğim Tatil Listeleme ve Görüntüleme uygulamasıdır. Bu projem, .NET alanındaki ilk deneyimlerimden olmasına rağmen, projeyi olabildiğince detaylı ve işlevsel bir şekilde tasarlamaya özen gösterdim.
 
 Uygulamanın ana sayfasında, mevcut tatiller listelenir. Kullanıcılar, istedikleri tatili arama kutusuyla arayarak kolayca bulabilirler. Ayrıca, kullanıcılar "Detaya Git" butonuna tıklayarak herhangi bir tatilin toplamda ve aylara göre kaç kez görüntülendiğini öğrenebilirler. Projemin istenen kısımları bitti ama ileride ek olarak personel kısmı oluşturacağım. Şimdilik sadece giriş yapma kısmı ve kullanıcı verilerini getirdiğim kısım var.
 
