@@ -10,7 +10,7 @@ Uygulama, veritabanından çekilen verileri kullanarak tatilin detaylarını, fo
 
 Projeyi geliştirirken, hem kullanıcı dostu bir arayüz hem de güçlü işlevsellik sağlamak adına büyük çaba harcadım. .NET teknolojisinin potansiyelini en iyi şekilde kullanmaya çalıştım. Dilerseniz kaynak kodlarını görmek için benimle iletişime geçebilirsiniz.
 
-PROJE HAKKINDA TEKNİK BİLGİLER:
+##PROJE HAKKINDA TEKNİK BİLGİLER:
 - Proje .NET C# Aspnet MVC Framework alt yapısıyla yazılmıştır.
 - Database-First yaklaşımıyla yazılmıştır.
 - Projenin FrontEnd işlemlerinde Catalog-Z isimli hazır tema kullandım.
